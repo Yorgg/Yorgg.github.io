@@ -1,9 +1,10 @@
 html {
-  font-size: 20px;
+  font-size: 19px;
 }
 
 body {
   margin: 0;
+  background: #f7f7f7;
   font-family: 'IBM Plex Mono', monospace; 
 }
 
